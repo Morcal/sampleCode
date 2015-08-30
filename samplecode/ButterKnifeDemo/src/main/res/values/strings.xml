@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ButterKnife</string>
+
+    <string name="click_anim">点击图片动画显示</string>
+    <string name="action_settings">Settings</string>
+    <string name="ToSecondOPager">跳转到第二个界面</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second_pager">第二个页面</string>
+    <string name="jianjie">简介：</string>
+    <string name="talking">评论：</string>
+</resources>
