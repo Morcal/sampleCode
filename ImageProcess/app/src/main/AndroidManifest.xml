@@ -22,6 +22,7 @@
         <activity android:name=".ColorMatrixActivity">
 
         </activity>
+        <activity android:name=".PixelsEffetc"></activity>
     </application>
 
 </manifest>

@@ -16,20 +16,20 @@
         android:text="@string/tv_title" />
 
     <Button
-        android:layout_marginTop="30dp"
         android:id="@+id/btn_prycolor"
         style="@style/ButtonStyle"
+        android:layout_marginTop="30dp"
         android:text="PrimaryColor" />
 
     <Button
-        android:layout_marginTop="15dp"
         android:id="@+id/btn_colormatrix"
         style="@style/ButtonStyle"
+        android:layout_marginTop="15dp"
         android:text="ColorMatrix" />
 
     <Button
-        android:layout_marginTop="15dp"
-        android:id="@+id/btn_02"
+        android:id="@+id/btn_pixels"
         style="@style/ButtonStyle"
-        android:text="PrimaryColor" />
+        android:layout_marginTop="15dp"
+        android:text="PixelsEffectc" />
 </LinearLayout>

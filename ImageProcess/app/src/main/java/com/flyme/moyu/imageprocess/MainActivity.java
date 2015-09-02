@@ -31,5 +31,11 @@ public class MainActivity extends ActionBarActivity {
         startActivity(intent);
     }
 
+    @OnClick(R.id.btn_pixels)
+    public void pixelsEffetc() {
+        Intent intent = new Intent(this, PixelsEffetc.class);
+        startActivity(intent);
+    }
+
 
 }
