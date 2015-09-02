@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageProcess</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_title">图像处理Demo</string>
+</resources>
