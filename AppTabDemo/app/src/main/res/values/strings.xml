@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPagerTab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">微信</string>
+    <string name="loc">Location</string>
+    <string name="sha">Share</string>
+    <string name="qzo">Qzone</string>
+    <string name="twi">Twitter</string>
+</resources>
